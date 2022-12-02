@@ -1,0 +1,24 @@
+A for Rock
+B for Paper
+C for Scissors
+
+X for Rock
+Y for Paper
+Z for Scissors
+
+The score for a single round is: 
+
+The score for the shape you selected:
+1 for Rock
+2 for Paper
+3 for Scissors
+
++ 
+The score for the outcome of the round:
+0 if you lost
+3 if the round was a draw
+6 if you won
+
+X means you need to lose
+Y means you need to draw
+Z means you need to win
